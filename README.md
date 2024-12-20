@@ -16,5 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Login
+![Project Image](dist/photo_2024-12-20_23-10-58.jpg)
 
-<img src="dist/photo_2024-12-20_23-10-58.jpg" alt="Example Image" width="400" height="300">
+# Register
+![Project Image](dist/photo_2024-12-20_23-11-01.jpg)
+
+# Register
+![Project Image](dist/photo_2024-12-20_23-11-01.jpg)
