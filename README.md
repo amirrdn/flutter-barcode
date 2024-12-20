@@ -21,5 +21,23 @@ samples, guidance on mobile development, and a full API reference.
 # Register
 ![Project Image](dist/photo_2024-12-20_23-11-01.jpg)
 
-# Register
-![Project Image](dist/photo_2024-12-20_23-11-01.jpg)
+# Image Upload
+![Project Image](dist/photo_2024-12-20_23-23-52.jpg)
+
+# Dashboard Profile
+![Project Image](dist/photo_2024-12-20_23-11-15.jpg)
+
+# Store Information
+![Project Image](dist/photo_2024-12-20_23-11-18.jpg)
+
+# Store Image
+![Project Image](dist/photo_2024-12-20_23-11-20.jpg)
+
+# Change Password
+![Project Image](dist/photo_2024-12-20_23-11-24.jpg)
+
+# QRscan
+![Project Image](dist/photo_2024-12-20_23-11-27.jpg)
+
+# Response QRscan
+![Project Image](dist/photo_2024-12-20_23-11-30.jpg)
